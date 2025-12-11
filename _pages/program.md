@@ -8,7 +8,7 @@ redirect_from:
 - "/agenda/"
 ---
 
-<sub>**The proceedings of ConfWS'2024 can be downloaded [here](../assets/confws/papers.zip). They will be also available online in CEUR-WS.org after the workshop.**</sub>
+<sub>**The proceedings of ConfWS'2024 can be downloaded [here](../assets/confws_2024/papers.zip). They will be also available online in CEUR-WS.org after the workshop.**</sub>
 
 <!--
 <sub>*There will be an "informal" self-organized meeting/dinner on Tuesday afternoon for those that arrive on Tuesday. For those interested, here are some places we recommend for the meeting (all of them are in Málaga downtown next to the Cathedral): [El Pimpi](https://goo.gl/maps/JiYcUhMmUfqGqxUaA), [Casa Lola](https://goo.gl/maps/tzKWhdu82wrNe1o4A), [Las Merchanas](https://goo.gl/maps/2paBoGtEJ7VCU8Qk7).*</sub>
@@ -73,7 +73,7 @@ Author / Presenter Information:<br>
   
 The gala dinner of ConfWS'24 will be take placed at **[TOMÀQUET Bar Restaurant](https://maps.app.goo.gl/3co9AkXTwA7VhzBr8)**, an authentic Catalan farmhouse located in a natural oasis surrounded by trees in the middle of Girona.
 
-![TOMÀQUET Bar Restaurant](/assets/confws/social_dinner.jpg "TOMÀQUET Bar Restaurant")
+![TOMÀQUET Bar Restaurant](/assets/confws_2024/social_dinner.jpg "TOMÀQUET Bar Restaurant")
 
 <!--
 To arrive to the restaurant, the best option is **by bus - Line 11 -** which takes you directly from the conference venue or from the downtown. From the conference venue (E.T.S. Ingeniería Informática) take the bus at the initial stop *Louis Pasteur* with direction *El Palo (P. Virginia)*. Coming from Málaga downtown you can take it at the *Alameda Avenue* direction *El Palo (P. Virginia)*.

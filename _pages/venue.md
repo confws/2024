@@ -12,7 +12,7 @@ It will be located in the ancient city of [Girona, Catalonia (Spain)](https://ww
 
 ConfWS'24 will be in a Hybrid format (onsite and online).
 
-![Old Town Campus of the University of Girona](/assets/confws/university_girona.jpg)
+![Old Town Campus of the University of Girona](/assets/confws_2024/university_girona.jpg)
 
 ## How to arrive
 
@@ -54,12 +54,12 @@ ConfWS'24 will be in a Hybrid format (onsite and online).
   
     - **Cadaques:** Don’t miss the beautiful seaside town of *Cadaqués*, less than an hour and half away.
   
-  ![Cadaques](/assets/confws/cadaques.jpg "Cadaques")
+  ![Cadaques](/assets/confws_2024/cadaques.jpg "Cadaques")
 
     - **Tossa de Mar** and **Palamós**: Other enchanting destinations along the *Costa Brava* include *Tossa de Mar* and *Palamós*. Be sure not to overlook the captivating hike along *"El Camí de Ronda"*.
 
-  ![Tossa de Mar](/assets/confws/tossademar.jpg "Tossa de Mar")
-  ![Palamós](/assets/confws/palamos.jpg "Palamós")
+  ![Tossa de Mar](/assets/confws_2024/tossademar.jpg "Tossa de Mar")
+  ![Palamós](/assets/confws_2024/palamos.jpg "Palamós")
 
 - **What to do?**
 

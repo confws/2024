@@ -2,7 +2,7 @@
 title: '26th International Workshop on Configuration (ConfWS 2024)<br><span style="font-size: 60%;">Girona, Spain. Sep 2-3, 2024</span>'
 permalink: "/"
 header:
-  overlay_image: "/assets/confws/girona.jpg"
+  overlay_image: "/assets/confws_2024/girona.jpg"
   overlay_filter: 0.3
   caption: '[Girona, Spain](https://www.eatsleepcycle.com/es/20-razones-por-que-vivir-en-girona-es-increible/)'
 author_profile: true
@@ -14,7 +14,7 @@ redirect_from:
 
 **26th International Workshop on Configuration (ConfWS 2024)**
 
-<img style="float: right; width: 200px;" src="assets/confws/confws-2024-logo.png">
+<img style="float: right; width: 200px;" src="assets/confws_2024/confws-2024-logo.png">
 
 ---
 - September 2 – 3, 2024
@@ -35,7 +35,7 @@ The 26th edition in 2024 is co-located within the [International Conference on P
 ConfWS'24 welcomes contributions on configuration related topics, configuration problems and models, techniques for obtaining and/or maintaining configuration models, reasoning methods, intelligent user interfaces and business process integration applications and tools, new relevant contributions for product configuration.
 {: .text-justify}
 
-<img style="float: right; width: 200px;" src="assets/confws/rueda.png">
+<img style="float: right; width: 200px;" src="assets/confws_2024/rueda.png">
 
 ConfWS'24 dedicates a special focus on <span style="color:green">**Sustainability**</span>. Participants are encouraged to submit and present contributions that addresses <span style="color:green">Green Configuration</span> to foster a constructive discussion on a hot topic both in industry and academia with the aim to detect and share opportunities for a more sustainable future. 
 {: .text-justify}
@@ -43,5 +43,5 @@ ConfWS'24 dedicates a special focus on <span style="color:green">**Sustainabilit
 
 ---
 
-![ConfWS will be at Girona](/assets/confws/girona.jpg "ConfWS will be at Girona")
+![ConfWS will be at Girona](/assets/confws_2024/girona.jpg "ConfWS will be at Girona")
 

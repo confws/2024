@@ -42,7 +42,7 @@ url: https://confws.github.io/2024
 baseurl: 
 repository: confws/2024
 teaser: 
-logo: 'assets/confws/confws-2024-logo.png' 
+logo: 'assets/confws_2024/confws-2024-logo.png'
 #masthead_title: ConfWS 2024
 words_per_minute: 200
 comments:
@@ -92,7 +92,7 @@ facebook:
   username: 
   app_id: 
   publisher: 
-og_image: 'assets/confws/confws-2024-logo.png'
+og_image: 'assets/confws_2024/confws-2024-logo.png'
 social:
   type: 
   name: 
@@ -104,7 +104,7 @@ analytics:
     anonymize_ip: false
 author:
   # name: ''
-  # avatar: assets/confws/uma-logo-transparent.png
+  # avatar: assets/confws_2024/uma-logo-transparent.png
   # bio: ''
   # home: 'https://www.uma.es/'
   # location:
@@ -132,14 +132,14 @@ author:
   #  url: https://www.domestika.org/es/projects/291810-ilustracion-para-mapa-sonoro-malaga
   sponsors: 
   - name: 'Siemens'
-    logo: assets/confws/siemens-logo.png
+    logo: assets/confws_2024/siemens-logo.png
     url: https://www.siemens.com/global/en.html
   # projects: 
   # - name: 'Tasova Plus'
-  #   logo: assets/confws/tasovaplus.png
+  #   logo: assets/confws_2024/tasovaplus.png
   #   url: http://tasova.uma.es/
   # - name: DAEMON
-  #   logo: assets/confws/daemon.png
+  #   logo: assets/confws_2024/daemon.png
   #   url: https://h2020daemon.eu/
   # - name: IRIS (PID2021-122812OB-I00)
   # - name: LEIA (UMA18-FEDERJA-157)
