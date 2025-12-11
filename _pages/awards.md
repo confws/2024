@@ -16,6 +16,6 @@ This year, in ConfWS 2023, the Best Paper Award winner were:
 - **Best Student Paper Award**: *Product Variant Master in the Construction Industry: A Synthesis of Construction Product Platforms* by Irene Campo Gay and Lars Hvam.
 
 
-![Best Paper Award](/assets/confws_2024/bestpaperaward.jpeg "Best Paper Award")
+![Best Paper Award](../assets/confws/bestpaperaward.jpeg "Best Paper Award")
 
-![Best Student Paper Award](/assets/confws_2024/beststudentpaperaward.jpeg "Best Student Paper Award") -->
+![Best Student Paper Award](../assets/confws/beststudentpaperaward.jpeg "Best Student Paper Award") -->
